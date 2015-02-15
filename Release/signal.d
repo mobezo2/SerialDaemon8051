@@ -1,0 +1,1 @@
+signal.d: ../signal.c
